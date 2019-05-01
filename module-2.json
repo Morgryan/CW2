@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Undergraduate",
+    "Name": "Post-Graduate",
     "Course":"Web Development",
     "Module": {
       "Learning_outcomes":["LO1", "LO2"],
@@ -11,7 +11,7 @@
   },
   {
     "Name": "Post-Graduate",
-    "Course":"Big Data",
+    "Course":"Computing",
     "Module": {
     "Learning_outcomes":["LO1", "LO2"],
     "Assignment":["CW1", "CW2"],
@@ -20,14 +20,14 @@
     }
   },
   {
-    "Name": "Research",
-    "Course":"Data Mining",
+    "Name": "Post-Graduate",
+    "Course":"Games Programming and Visual Computing",
     "Module": {
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
       "Volume":["1000 words", "4000 words"],
       "weights":["20%", "80%"]
     }
-    
+
   }
 ]

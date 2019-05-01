@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Undergraduate",
+    "Name": "Phd",
     "Course":"Web Development",
     "Module": {
       "Learning_outcomes":["LO1", "LO2"],
@@ -10,7 +10,7 @@
     }
   },
   {
-    "Name": "Post-Graduate",
+    "Name": "Phd",
     "Course":"Big Data",
     "Module": {
     "Learning_outcomes":["LO1", "LO2"],
@@ -20,7 +20,7 @@
     }
   },
   {
-    "Name": "Research",
+    "Name": "Phd",
     "Course":"Data Mining",
     "Module": {
       "Learning_outcomes":["LO1", "LO2"],
@@ -28,6 +28,6 @@
       "Volume":["1000 words", "4000 words"],
       "weights":["20%", "80%"]
     }
-    
+
   }
 ]
